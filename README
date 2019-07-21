@@ -1,0 +1,4 @@
+
+THROTTLE_FORWARD_PWM = 365      #pwm value for max forward throttle
+THROTTLE_STOPPED_PWM = 285      #pwm value for no movement
+THROTTLE_REVERSE_PWM = 200      #pwm value for max reverse throttle
